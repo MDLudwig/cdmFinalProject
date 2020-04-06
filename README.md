@@ -1,1 +1,2 @@
-This will contain a description of what this project will be.
+# Dilan and Matt's Javascript Connect 4
+
